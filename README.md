@@ -4,7 +4,7 @@ A simple package providing glue methods between [notified_preferences](https://p
 
 ## Usage
 
-Use it like any other provider. Make sure you provide setup an instance of SharedPreferences on startup of your app.
+Use it like any other provider. Make sure you provide an instance of SharedPreferences on startup of your app.
 
 ```dart
 final preferencesProvider = 
